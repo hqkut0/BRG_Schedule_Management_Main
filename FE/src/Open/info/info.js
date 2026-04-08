@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  document.getElementById("schedule").textContent = SCHEDULE;
   document.getElementById("member").textContent = MEMBER_PROFILE;
-  document.getElementById("user").textContent = USER;
+  document.getElementById("calendar").textContent = CALENDAR;
+  document.getElementById("faq").textContent = FAQ;
 });
