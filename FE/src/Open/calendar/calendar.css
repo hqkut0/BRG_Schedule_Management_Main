@@ -8,6 +8,21 @@ input, textarea {
   margin-bottom: 10px;
 }
 
+.back-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.back-button:hover {
+  background-color: #e0e0e0;
+}
+
 /* ポップアップ */
 #popup {
   position: fixed;
